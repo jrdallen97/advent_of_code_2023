@@ -4,5 +4,5 @@ version = "0.1.0"
 edition = "2021"
 
 [[bin]]
-name = "d001"
-path = "d001/main.rs"
+name = "d01"
+path = "d01/main.rs"

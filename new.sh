@@ -14,7 +14,7 @@ EOF
     exit 1;;
 esac
 
-PADDED=$(printf "%03d" "$NUM")
+PADDED=$(printf "%02d" "$NUM")
 PNUM="d$PADDED"
 
 # Create problem dir
